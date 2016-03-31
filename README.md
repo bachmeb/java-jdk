@@ -14,3 +14,7 @@
   * [1.6](/docs/linux/amazon/1.6.md)
   * [1.7](/docs/linux/amazon/1.7.md)
   * [1.8](/docs/linux/amazon/1.8.md)
+* Ubuntu
+  * [1.6](/docs/linux/ubuntu/1.6.md)
+  * [1.7](/docs/linux/ubuntu/1.7.md)
+  * [1.8](/docs/linux/ubuntu/1.8.md)
